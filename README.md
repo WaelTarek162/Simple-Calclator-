@@ -1,16 +1,14 @@
-# come_back
+Simple calclator using flutter compatable with all platforms
 
-A new Flutter project.
+Just Enter your inputs and choose operation to get the results>>
 
-## Getting Started
+![Calc0](https://user-images.githubusercontent.com/57181709/189371918-c2786299-812f-4f74-a76c-f926e543646a.PNG) 
 
-This project is a starting point for a Flutter application.
+you have all main mathimatics operatins
 
-A few resources to get you started if this is your first Flutter project:
+![Calc1](https://user-images.githubusercontent.com/57181709/189371989-fdfff0c7-1f8f-41b6-979e-c482712d47b9.PNG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+and in advanced screen you have operation on single input like square root on logarithm>>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Calc2](https://user-images.githubusercontent.com/57181709/189372488-9c4f65ea-c92a-4e4b-9e9a-8d2853b0ec33.PNG)
